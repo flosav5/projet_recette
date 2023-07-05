@@ -1,0 +1,4 @@
+Le projet Serviette consiste à évaluer l’impact écologique d’une recette sélectionnée par l’utilisateur. Pour cela nous allons récupérer les données de cycle de vie (ACV) du site d’Agribalyse. Nous allons aussi récupérer les recettes sur le site marmiton. La solution proposée vise à trouver les ingrédients de la recette rentrée par l’utilisateur et de rechercher l’impact environnemental de chaque ingrédient. 
+Pour cela nous allons utiliser un repository github pour assurer le versioning de l’application. Nous utiliserons une architecture python pour le tri des données ainsi que la structure de l’application. 
+Nous avons commencé par importer les données, renommer les colonnes et trier les colonnes qui nous sont utiles. Nous allons aussi analyser certains ingrédients dans leur impact sur l’environnement. 
+# projet_recette
